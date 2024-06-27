@@ -1,0 +1,7 @@
+
+streamlit
+ultralytics
+supervision
+pillow
+gdown
+vonage
