@@ -1,8 +1,4 @@
-huggingface_hub
+
 streamlit
-ultralytics
-supervision
-pillow
-gdown
-vonage
+
 opencv-python
