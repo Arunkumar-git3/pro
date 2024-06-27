@@ -1,4 +1,4 @@
-
+huggingface_hub
 streamlit
 ultralytics
 supervision
