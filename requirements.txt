@@ -1,4 +1,10 @@
-
 streamlit
+ultralytics
+supervision
+pillow
+gdown
+vonage
+opencv-python
+
 
 
