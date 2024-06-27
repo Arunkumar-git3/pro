@@ -5,3 +5,4 @@ supervision
 pillow
 gdown
 vonage
+opencv-python
