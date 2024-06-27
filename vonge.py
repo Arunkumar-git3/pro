@@ -1,5 +1,5 @@
 
-
+import cv2
 import streamlit as st
 from datetime import datetime, timedelta
 from huggingface_hub import hf_hub_download
